@@ -47,7 +47,7 @@ To run this project, you need the following:
 ## Run the Application
 
 1. Open the terminal or command prompt and navigate to the project directory.
-2. Run the application using the following command:
+2. Run the application using the following command: python main.py
 
 
 3. Follow the on-screen instructions to manage the student database.
