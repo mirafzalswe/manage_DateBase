@@ -34,7 +34,7 @@ To run this project, you need the following:
 
 - Python 3.x
 - PostgreSQL
-- psycopg2 library (for database connection)
+  - psycopg2 library (for database connection): python main.py
 
 ## Setup
 
